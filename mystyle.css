@@ -1,0 +1,59 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    Color: rgb(255, 255, 255);
+    text-align: Left;
+}
+
+#other{
+    background-color: olivedrab;
+    background-image: url(img/green.png);
+}
+
+div{
+    border: 2px solid rgba(0, 0, 0, 0.616);
+    padding: 1px;
+}
+
+.tin{
+    background-color: rgba(44, 44, 44, 0.63);
+    color: rgb(163, 255, 151);
+}
+
+#Tanks{
+    background-image: url(img/tankscape.jpg);
+    background-repeat:no-repeat;
+    background-size: 1920px 1080px;
+}
+
+img{
+    width: 300px;
+}
+
+a{
+    background-color: rgba(44, 44, 44, 0.63);
+    border: 3px solid rgba(0, 0, 0, 0.418);
+    Color: white;
+    text-decoration: none;
+    display: black;
+}
+
+h1{
+    Color: black;
+    font-size: 45px;
+    background-color: rgba(128, 128, 128, 0.5);
+    border: 2px solid rgba(0, 0, 0, 0.616);
+    text-shadow: 2px 1px rgba(44, 44, 44, 0.877);
+    text-transform: none;
+}
+
+h3{
+    Color: rgb(219, 219, 219);
+    font-size: 20px;
+    background-color: rgba(128, 128, 128, 0.5);
+    width: 300px;
+}
+
+#leo{
+    color: rgb(93, 180, 93);
+    text-shadow: white;
+}
